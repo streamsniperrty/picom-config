@@ -1,4 +1,4 @@
-# Streamsniperty's Picom Configuration File
+# Streamsniperrty's Picom Configuration File
 
 This repository holds my configuration file for Picom. I wanted to explain the forks of Picom that I use.
 
