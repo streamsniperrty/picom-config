@@ -9,7 +9,7 @@ If you want rounded windows and kawase blur, use ibhagwan's Picom.
 
 #### How to install
 
-In order to install ibhagwan's Picom, go to his GitHub page: `https://github.com/ibhagwan/picom`. All the instructions should be on the README.
+In order to install ibhagwan's Picom, go to his GitHub page: https://github.com/ibhagwan/picom. All the instructions should be on the README.
 
 ### jonaburg's Picom
 
@@ -17,7 +17,7 @@ I use jonaburg's Picom fork for window animations. This is the current Picom for
 
 #### How To Install
 
-In order to install jonaburg's Picom, go to his GitHub page: `https://github.com/jonaburg/picom`.
+In order to install jonaburg's Picom, go to his GitHub page: https://github.com/jonaburg/picom.
 
 However, in his README, some dependencies are missing for Debian/Ubuntu. I included some other necessary dependencies needed to build the project. As a result, if you are using a Debian/Ubuntu distro, copy and paste this line into your terminal first, before compiling and installing the project from his website. 
 
